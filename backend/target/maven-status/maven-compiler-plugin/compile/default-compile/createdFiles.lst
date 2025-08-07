@@ -1,0 +1,5 @@
+com/bobby/backend/dto/ScanRequest.class
+com/bobby/backend/model/BarcodeMonsterResponse.class
+com/bobby/backend/model/Product.class
+com/bobby/backend/model/Ingredient.class
+com/bobby/backend/model/ProductResponse.class

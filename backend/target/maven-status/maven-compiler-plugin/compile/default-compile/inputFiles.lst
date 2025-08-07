@@ -1,0 +1,10 @@
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/model/Product.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/model/Ingredient.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/service/ScanService.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/model/BarcodeMonsterResponse.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/dto/ScanRequest.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/model/ProductResponse.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/service/AiService.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/BackendApplication.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/controller/ScanController.java
+/Users/bharathmopuru/Desktop/Bobby/backend/src/main/java/com/bobby/backend/dto/ScanResponse.java
