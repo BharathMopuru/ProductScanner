@@ -17,7 +17,11 @@
 - [x] Integrate the `BarcodeScanner` component into the main `App` component.
 - [x] Style the application for a clean and user-friendly interface.
 
-## 4. Review
+## 4. Documentation
+
+- [x] Edit the main README.md file to reflect both frontend and backend information.
+
+## 5. Review
 
 - [x] A summary of the changes made and any other relevant information.
 
