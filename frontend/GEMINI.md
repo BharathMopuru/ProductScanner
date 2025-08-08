@@ -1,4 +1,4 @@
-This file provides guidance to Claude Code (gemini.ai/code) when working with code in this repository.
+This file provides guidance to gemini Code (gemini.ai/code) when working with code in this repository.
 ## Repository Overview
 1. Initial Analysis and Planning
 First think through the problem, read the codebase for relevant files, and write a plan to tasks/todo.md.
