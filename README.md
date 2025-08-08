@@ -30,6 +30,7 @@ This project is a full-stack application that allows users to scan product barco
 - Node.js and npm (or yarn)
 - Java 17 or higher
 - Maven
+- Ollama (with `ollama run llama3.1:8b` model pulled and running locally)
 
 ### Installation
 

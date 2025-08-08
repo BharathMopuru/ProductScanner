@@ -21,6 +21,7 @@
 ## 4. Documentation
 
 - [x] Edit the main README.md file to reflect both frontend and backend information.
+- [x] Update README.md to include Ollama as a prerequisite.
 
 ## 5. Review
 
