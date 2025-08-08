@@ -1,0 +1,42 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.barcode-scanner-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#reader {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.scan-result {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: left;
+  width: 100%;
+  max-width: 800px; /* Increased max-width for landscape layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.scan-result-left {
+  width: 48%;
+}
+
+.scan-result-right {
+  width: 48%;
+}

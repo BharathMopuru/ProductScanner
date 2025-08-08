@@ -1,0 +1,1 @@
+I have updated the `App.css` file to include `padding-left: 50%;` to the `.App` class.
